@@ -1,6 +1,6 @@
 # My Website
 
-- In this GitHub repository you can see all of the coding that I've used to make my website look the way It looks.
+- In this GitHub repository, you can see all of the coding that I've used to make my website look the way It looks.
 
 ## Information
 
@@ -8,4 +8,4 @@
 
 ## More
 
-- There Is a lot more coming soon! I'm always working hard to giving everyone the best experience as possible.
+- There's a lot more, coming soon! I'm always working hard to giving everyone the best experience as possible.
