@@ -1,4 +1,4 @@
-/* This Is the home page avatar. */
+/* This Is The Home Page Avatar. */
 .avatar {
     display: block;
     margin-left: auto;
@@ -8,7 +8,7 @@
     border-radius: 110%;
 }
 
-/* This Is the home page background Image */
+/* This Is The Home Page Background Image. */
 body {
     background-image: url("../images/Website-Background.png");
     background-position: cover;
